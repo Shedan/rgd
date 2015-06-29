@@ -1,0 +1,12 @@
+name: 'Руї громадянської дії'
+description: 'Громадська організація "Рух громадянської дії"'
+author: Shedan
+homepage: 'http://vk.com/sky.shedan'
+code: Shedan
+authorUrl: 'http://vk.com/sky.shedan'
+form:
+    fields:
+        site_name:
+            label: 'Site name'
+            comment: 'The website name as it should appear on the front-end'
+            default: Shedan
